@@ -1,1 +1,1 @@
-# Autoencoder_MNIST
+# Basic ML
